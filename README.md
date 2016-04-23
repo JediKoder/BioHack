@@ -4,7 +4,7 @@
 <h3 align="center">My BioHack Repo</h3>
 
 
-align="center">(http://nolimitsnolaws.com/wp-content/uploads/2015/01/Biohacking-your-body.jpg)
+(http://nolimitsnolaws.com/wp-content/uploads/2015/01/Biohacking-your-body.jpg)
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
