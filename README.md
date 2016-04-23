@@ -1,7 +1,7 @@
 # BioHack
 
 
-![Open Source Society University (OSSU)](http://i.imgur.com/GjEbgIJ.png)
+![Open Source Society University (OSSU)](http://nolimitsnolaws.com/wp-content/uploads/2015/01/Biohacking-your-body.jpg)
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
