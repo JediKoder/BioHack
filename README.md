@@ -15,7 +15,7 @@ I know, I know. You’re here to learn biohacking, not chemistry. I’ve got new
 
 MIT’s OpenCourseWare (Free):
 
-OWC is MIT’s effort to get their classes and educational excellence onto the internet. You won’t get a degree here, but you will get to essentially audit their classes. The good is that it’s for free. The bad is that there are only some classes that will seem like actual classes (i.e. they have the lectures recorded and materials all together for you). Check it out here.
+OWC is MIT’s effort to get their classes and educational excellence onto the internet. You won’t get a degree here, but you will get to essentially audit their classes. The good is that it’s for free. The bad is that there are only some classes that will seem like actual classes (i.e. they have the lectures recorded and materials all together for you). Check it out here. [http://ocw.mit.edu/courses/find-by-topic/#cat=science&subcat=chemistry]
 
 Khan Academy (Free):
 
