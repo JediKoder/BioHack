@@ -29,6 +29,11 @@
 ## Resources
 
 - [IGem] (http://igem.org/Main_Page)
+- [IGem Catalog] (http://parts.igem.org/Catalog)
+- [Open Wetware] (http://openwetware.org/wiki/Main_Page)
+- [BioBricks] (http://biobricks.org/)
+- [Synthetic Biology] (http://syntheticbiology.org/)
+- [BioCoder] (http://www.oreilly.com/biocoder/)
 
 ## About
 
