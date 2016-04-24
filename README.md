@@ -5,14 +5,11 @@
 
 ![BioHack Repository](https://cdn-shop.adafruit.com/1200x900/651-00.jpg)
 
-<h3 align="center">Open Source Society University</h3>
+<h3 align="center">BioHack Repository</h3>
 <p align="center">
-  Path to a free self-taught education in Computer Science!
+  Path to a free self-taught education in BioHacking
 </p>
-<p align="center">
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
-  </a>
+
 </p>
 
 ## Contents
