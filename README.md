@@ -1,9 +1,9 @@
 # BioHack
 
-OSS Template
 
 
-![Open Source Society University (OSSU)](https://cdn-shop.adafruit.com/1200x900/651-00.jpg)
+
+![BioHack Repository](https://cdn-shop.adafruit.com/1200x900/651-00.jpg)
 
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
