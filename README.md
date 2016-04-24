@@ -14,6 +14,7 @@
 
 ## Contents
 
+- [Resources] (#resources)
 - [About](#about)
 - [Becoming an OSS student](#becoming-an-oss-student)
 - [Motivation & Preparation](#motivation--preparation)
@@ -24,6 +25,10 @@
 - [Community](#community)
 - [Next Goals](#next-goals)
 - [References](#references)
+
+## Resources
+
+- [IGem] (http://igem.org/Main_Page)
 
 ## About
 
